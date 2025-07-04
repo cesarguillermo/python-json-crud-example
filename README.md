@@ -14,12 +14,12 @@ Este es un proyecto simple en Python que demuestra cómo realizar operaciones CR
 ---
 
 ## 📁 Estructura del proyecto
+python-json-crud-example/
+├── json_file_operations.py   # Script principal
+├── datos.json                # Archivo JSON con datos simples 
+├── datos_anidados.json       # Archivo JSON con datos anidados
+└── README.md                 # Información del proyecto
 
- python-json-crud-example/
-    ├── json_file_operations.py # Script principal
-    ├── datos.json # Archivo JSON con datos simples 
-    ├── datos_anidados.json # Archivo JSON con datos anidados
-    └── README.md # Información del proyecto
 
 ## ▶️ Cómo ejecutar
 
